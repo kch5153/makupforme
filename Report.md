@@ -1,10 +1,10 @@
 <h1>MakeUpForMe</h1>
 <h2>2560 Web Technologies and Standards - Final Project Report</h2>
-<p>Casey Hirth (KCH39), Jaime Fawcett (JAF157), Amber Torrise (AAT38), Jose Zindia (JDZ18)</p>
+<p>Kacey Hirth, Jaime Fawcett, Amber Torrise, Jose Zindia</p>
 
 <h2>Introduction</h2>
 <p>
-This project was a collaboration between Jaime Fawcett, Casey Hirth, Amber Torrise, and Jose Zindia. Specific contributions are described in the 
+This project was a collaboration between Jaime Fawcett, Kacey Hirth, Amber Torrise, and Jose Zindia. Specific contributions are described in the 
 contributions section. 
   
 Together, we created MakeUpForMe, a social media sharing site where users can create profiles, post pictures of their make up ‘looks’ with associated products, 
@@ -42,7 +42,7 @@ Additional features we incorporated included:
 - Use of IP address web service to get IP address of users so that we could access location information to populate the user's profile.
 
 <h2>Contributions</h2>
-<h3>Casey Hirth</h3>
+<h3>Kacey Hirth</h3>
 * EJS views for viewing other looks (feed);
 * Middleware for viewing other looks/profiles (via feed) and following other profiles;
 * Session management and login/sign-up capabilities; 
